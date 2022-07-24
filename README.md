@@ -1,4 +1,7 @@
 # javafx-and-xampp
+
+😂😂 I knew you'dd be looking for this!
+
 Javafx application to read data from a URL and update an sql database.  The 1000 most popular boys and girls names from 2001 can be found here: http://liveexample.pearsoncmg.com/data/babynamesranking2001.txt  There is a similar page for years 2002 through 2010.  You will need to read in the data and update your database for each of the 10 years.
 
 In BabyNamesPopulateDB the for loop goes thru the years, and the while loop takes care of reading in the names for a particular year, based on the loop invariant year. After you have read in your data, go to workbench and make sure it looks like it was read correctly.
